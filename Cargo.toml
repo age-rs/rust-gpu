@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "examples/example-runner",
+	"examples/wgpu-example-runner",
     "rustc_codegen_spirv",
     "spirv-builder",
     "spirv-std",
