@@ -5,7 +5,6 @@
 #![feature(register_attr)]
 #![register_attr(spirv)]
 
-use core::panic::PanicInfo;
 use spirv_std::{Input, Output, Vec4};
 
 #[allow(unused_attributes)]
